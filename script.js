@@ -1,4 +1,4 @@
-const man = document.getElementById('mam');
+const man = document.getElementById('man');
 const butterfly= document.getElementById('butterfly');
 const bomb = document.getElementById('bomb');
 const scoreDisplay = document.getElementById('score');
