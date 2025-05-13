@@ -112,10 +112,3 @@ Additional Features:
 
 Introduce more object types or levels.
 
-
-
-
----
-
-This setup provides a foundation for building an engaging and interactive game. Let me know if you'd like further customization or enhancements!
-
